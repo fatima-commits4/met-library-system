@@ -1,4 +1,4 @@
-# met-library-system
+# Met Library System
 MetLibrary – Java Desktop Library Management System
 
 1. Project Overview: MetLibrary is a standalone Java desktop application developed to manage the core
